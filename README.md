@@ -22,6 +22,9 @@
     - Hello240-Android：安卓投屏程序源码
 4. 3D Model: 结构外壳，用于3D打印
 
+# 安卓投屏程序
+可以自己使用源码编译，也可以使用我编译好的APK。[下载APK](3.Software/Hello240-Android/apk/app-release.apk)
+
 # 天气数据
 天气接口：http://chenyuebo.cn:8080/hello240/api/weather?cityCode=101010100 ，大家开发天气功能也可以使用，接口仅供学习使用
 
