@@ -26,7 +26,7 @@
 可以自己使用源码编译，也可以使用我编译好的APK。[下载APK](3.Software/Hello240-Android/apk/app-release.apk)
 
 # 天气数据
-天气接口：http://chenyuebo.cn:8080/hello240/api/weather?cityCode=101010100 ，大家开发天气功能也可以使用，接口仅供学习使用
+天气接口：http://chenyuebo.cn/hello240/api/weather?cityCode=101010100 ，大家开发天气功能也可以使用，接口仅供学习使用
 
 天气数据和参数cityCode来源于http://www.weather.com.cn/
 
